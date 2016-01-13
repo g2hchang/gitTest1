@@ -1,0 +1,1 @@
+file in gitDir1 a.txt
